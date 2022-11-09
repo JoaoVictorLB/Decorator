@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a92494f7-d1e3-4cb5-a054-f68be09dab55" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Veiculo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/decorator/VeiculoDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="27" />
+              <folding>
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Carro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+              <folding>
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/decorator/VeiculoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Carreta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Moto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <folding>
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/decorator/Funcoes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/FuncoesDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/Veiculo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/VeiculoDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/Carreta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/Carro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/Moto.java" />
+        <option value="$PROJECT_DIR$/src/test/java/decorator/VeiculoTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Decorator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Decorator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Decorator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Decorator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/padroes-projeto-master/src" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.VeiculoTest.deveRetornarBuzinaMoto">
+    <configuration name="VeiculoTest.deveRetornarBuzinaCarreta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Decorator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.decorator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.decorator.VeiculoTest" />
+      <option name="METHOD_NAME" value="deveRetornarBuzinaCarreta" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VeiculoTest.deveRetornarBuzinaCarro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Decorator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.decorator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.decorator.VeiculoTest" />
+      <option name="METHOD_NAME" value="deveRetornarBuzinaCarro" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VeiculoTest.deveRetornarBuzinaMoto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Decorator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.decorator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.decorator.VeiculoTest" />
+      <option name="METHOD_NAME" value="deveRetornarBuzinaMoto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VeiculoTest.deveRetornarQuilometragemDeRevisaoCarreta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Decorator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.decorator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.decorator.VeiculoTest" />
+      <option name="METHOD_NAME" value="deveRetornarQuilometragemDeRevisaoCarreta" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VeiculoTest.deveRetornarQuilometragemDeRevisaoMoto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Decorator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.decorator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.decorator.VeiculoTest" />
+      <option name="METHOD_NAME" value="deveRetornarQuilometragemDeRevisaoMoto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VeiculoTest.deveRetornarBuzinaMoto" />
+        <item itemvalue="JUnit.VeiculoTest.deveRetornarBuzinaCarro" />
+        <item itemvalue="JUnit.VeiculoTest.deveRetornarBuzinaCarreta" />
+        <item itemvalue="JUnit.VeiculoTest.deveRetornarQuilometragemDeRevisaoCarreta" />
+        <item itemvalue="JUnit.VeiculoTest.deveRetornarQuilometragemDeRevisaoMoto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a92494f7-d1e3-4cb5-a054-f68be09dab55" name="Default Changelist" comment="" />
+      <created>1667770747560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667770747560</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="VeiculoTest_deveRetornarQuilometragemDeRevisaoCarreta - 2022.11.08 at 22h 48m 07s.xml">
+      <configuration name="VeiculoTest.deveRetornarQuilometragemDeRevisaoCarreta" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VeiculoTest_deveRetornarQuilometragemDeRevisaoCarro - 2022.11.08 at 22h 48m 51s.xml">
+      <configuration name="VeiculoTest.deveRetornarQuilometragemDeRevisaoCarro" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VeiculoTest_deveRetornarQuilometragemDeRevisaoMoto - 2022.11.08 at 22h 49m 10s.xml">
+      <configuration name="VeiculoTest.deveRetornarQuilometragemDeRevisaoMoto" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VeiculoTest_deveRetornarQuilometragemDeRevisaoMoto - 2022.11.08 at 22h 49m 44s.xml">
+      <configuration name="VeiculoTest.deveRetornarQuilometragemDeRevisaoMoto" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VeiculoTest_deveRetornarQuilometragemDeRevisaoCarreta - 2022.11.08 at 22h 50m 46s.xml">
+      <configuration name="VeiculoTest.deveRetornarQuilometragemDeRevisaoCarreta" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VeiculoTest_deveRetornarQuilometragemDeRevisaoCarreta - 2022.11.08 at 22h 50m 59s.xml">
+      <configuration name="VeiculoTest.deveRetornarQuilometragemDeRevisaoCarreta" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VeiculoTest_deveRetornarQuilometragemDeRevisaoCarreta - 2022.11.08 at 22h 51m 16s.xml">
+      <configuration name="VeiculoTest.deveRetornarQuilometragemDeRevisaoCarreta" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VeiculoTest_deveRetornarBuzinaCarreta - 2022.11.08 at 22h 52m 17s.xml">
+      <configuration name="VeiculoTest.deveRetornarBuzinaCarreta" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VeiculoTest_deveRetornarBuzinaCarro - 2022.11.08 at 22h 52m 45s.xml">
+      <configuration name="VeiculoTest.deveRetornarBuzinaCarro" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VeiculoTest_deveRetornarBuzinaMoto - 2022.11.08 at 22h 53m 05s.xml">
+      <configuration name="VeiculoTest.deveRetornarBuzinaMoto" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Veiculo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Carreta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Carro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/VeiculoDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Moto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/decorator/VeiculoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
